@@ -1,7 +1,7 @@
 # Artificial Intelligence – Assignment  Document Classifier using NLP and Deep Learning
 
 # Overview
-# This project aims to build an intelligent document classifier that categorizes a set of documents into predefined classes using Natural Language Processing (NLP) and deep learning techniques. The task involved implementing and evaluating two models: Logistic Regression (Traditional Machine Learning) and LSTM (Deep Learning).
+ This project aims to build an intelligent document classifier that categorizes a set of documents into predefined classes using Natural Language Processing (NLP) and deep learning techniques. The task involved implementing and evaluating two models: Logistic Regression (Traditional Machine Learning) and LSTM (Deep Learning).
 
 # Objectives
 The goal is to classify documents into categories such as Scientific, Legal, E-commerce, and others using NLP techniques and machine learning.
